@@ -1,0 +1,6 @@
+C:\Users\desktop\source\repos\threadssync\obj\Debug\threadssync.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\threadssync\bin\Debug\threadssync.exe.config
+C:\Users\desktop\source\repos\threadssync\bin\Debug\threadssync.exe
+C:\Users\desktop\source\repos\threadssync\bin\Debug\threadssync.pdb
+C:\Users\desktop\source\repos\threadssync\obj\Debug\threadssync.exe
+C:\Users\desktop\source\repos\threadssync\obj\Debug\threadssync.pdb

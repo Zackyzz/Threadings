@@ -1,0 +1,6 @@
+C:\Users\desktop\source\repos\produs\bin\Debug\produs.exe.config
+C:\Users\desktop\source\repos\produs\bin\Debug\produs.exe
+C:\Users\desktop\source\repos\produs\bin\Debug\produs.pdb
+C:\Users\desktop\source\repos\produs\obj\Debug\produs.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\produs\obj\Debug\produs.exe
+C:\Users\desktop\source\repos\produs\obj\Debug\produs.pdb
